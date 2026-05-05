@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Technical+Engineer+%40+Matrix+Comsec+%F0%9F%9A%80;Backend+%26+LMS+Plugin+Developer+%F0%9F%94%A7;Ex-Lecturer+%40+Parul+University+%F0%9F%8E%93;Python+%7C+PHP+%7C+Java+%7C+Moodle+%F0%9F%90%8D;Building+Scalable+Real-World+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Technical+Engineer+%40+Matrix+Comsec+%F0%9F%9A%80;Backend+%26+LMS+Plugin+Developer+%F0%9F%94%A7;Ex-Lecturer+%40+Parul+University+%F0%9F%8E%93;Python+%7C+PHP+%7C+Java+%7C+Moodle+%F0%9F%90%8D;Building+Scalable+Real-World+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,12 +28,12 @@
 ## 🧠 About Me
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Technical+Engineer+%40+Matrix+Comsec+Pvt.+Ltd.;B.Tech+CS+%7C+Ex-Lecturer+%40+Parul+University+(3%2B+yrs);Backend+Dev+%7C+LMS+Plugins+%7C+Automation+%7C+Networking" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🏢+Technical+Engineer+%40+Matrix+Comsec+Pvt.+Ltd.;🎓+B.Tech+CS+%7C+Ex-Lecturer+%40+Parul+University+(3%2B+yrs);💡+Backend+Dev+•+LMS+Plugins+•+Automation+•+Networking" />
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 **Hey there! 👋 I'm Parth Sharma**
 
@@ -44,7 +44,7 @@
 
 **What I do:**  
 🔧 &nbsp;Build & deploy custom **LMS plugins** on Moodle  
-⚙️ &nbsp;Automate device config (cameras, COSEC panels)  
+⚙️ &nbsp;Automate device config (cameras, COSEC WEB, COSEC panels)  
 🚀 &nbsp;Upgrade live production servers — **zero downtime!**  
 📚 &nbsp;Teach, mentor & publish tech guides  
 
@@ -148,9 +148,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PARTH4488&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PARTH4488&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH4488&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH4488&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
 
