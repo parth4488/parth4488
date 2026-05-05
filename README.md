@@ -27,27 +27,22 @@
 
 ## 🧠 About Me
 
-```python
-class ParthSharma:
-    def __init__(self):
-        self.name          = "Parth Sharma"
-        self.role          = "Technical Engineer @ Matrix Comsec Pvt. Ltd."
-        self.location      = "Vadodara, Gujarat, India 🇮🇳"
-        self.education     = "B.Tech in Computer Science — Parul University (2021)"
-        self.prev_exp      = "Ex-Lecturer @ Parul University (3+ years)"
-        self.interests     = ["Backend Development", "LMS Plugin Dev",
-                              "System Automation", "Networking"]
-        self.currently     = "Mastering enterprise-level system config & integrations"
-        self.open_to       = ["Software Development", "Backend Engineering",
-                              "Technical Roles"]
-        self.fun_fact      = "I upgraded a live Moodle server with ZERO downtime! 🎯"
+<div align="center">
 
-    def say_hi(self):
-        print("Hey there! I build things that actually work in production. 🚀")
+| | |
+|:---:|:---|
+| 👨‍💻 | **Parth Sharma** |
+| 🏢 | Technical Engineer @ **Matrix Comsec Pvt. Ltd.** |
+| 📍 | Vadodara, Gujarat, India 🇮🇳 |
+| 🎓 | B.Tech in Computer Science — Parul University (2021) |
+| 🏫 | Ex-Lecturer @ Parul University (3+ years) |
+| 💡 | Backend Dev • LMS Plugin Dev • System Automation • Networking |
+| 🔭 | Currently mastering enterprise-level system config & integrations |
+| 🚀 | Open to: Software Development, Backend Engineering, Technical Roles |
+| 🎯 | Fun Fact: Upgraded a **live Moodle server** with **ZERO downtime!** |
+| 💬 | *"Hey there! I build things that actually work in production."* |
 
-me = ParthSharma()
-me.say_hi()
-```
+</div>
 
 ---
 
@@ -68,8 +63,7 @@ me.say_hi()
 ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Tools & Others**
 
