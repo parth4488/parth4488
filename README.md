@@ -88,7 +88,7 @@
   - 📅 Exam Slot Booking System
   - 🧪 Lab Exam Slot Booking System
   - 📦 Bulk Quiz Export Tool
-- ⚙️ Built automation to configure **camera devices, COSEC Web & panels** — slashing manual setup time
+- ⚙️ Built automation to default/Configure **camera devices, COSEC Web & panels** — slashing manual setup time
 
 ---
 
