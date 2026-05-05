@@ -44,7 +44,7 @@
 
 **What I do:**  
 🔧 &nbsp;Build & deploy custom **LMS plugins** on Moodle  
-⚙️ &nbsp;Automate device config (cameras, COSEC panels)  
+⚙️ &nbsp;Automate device config (cameras, COSEC WEB, COSEC panels)  
 🚀 &nbsp;Upgrade live production servers — **zero downtime!**  
 📚 &nbsp;Teach, mentor & publish tech guides  
 
