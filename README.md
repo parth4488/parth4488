@@ -28,21 +28,34 @@
 ## 🧠 About Me
 
 <div align="center">
-
-| | |
-|:---:|:---|
-| 👨‍💻 | **Parth Sharma** |
-| 🏢 | Technical Engineer @ **Matrix Comsec Pvt. Ltd.** |
-| 📍 | Vadodara, Gujarat, India 🇮🇳 |
-| 🎓 | B.Tech in Computer Science — Parul University (2021) |
-| 🏫 | Ex-Lecturer @ Parul University (3+ years) |
-| 💡 | Backend Dev • LMS Plugin Dev • System Automation • Networking |
-| 🔭 | Currently mastering enterprise-level system config & integrations |
-| 🚀 | Open to: Software Development, Backend Engineering, Technical Roles |
-| 🎯 | Fun Fact: Upgraded a **live Moodle server** with **ZERO downtime!** |
-| 💬 | *"Hey there! I build things that actually work in production."* |
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🏢+Technical+Engineer+%40+Matrix+Comsec+Pvt.+Ltd.;🎓+B.Tech+CS+%7C+Ex-Lecturer+%40+Parul+University+(3%2B+yrs);💡+Backend+Dev+•+LMS+Plugins+•+Automation+•+Networking" />
 </div>
+
+<br/>
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+**Hey there! 👋 I'm Parth Sharma**
+
+🏢 &nbsp;Technical Engineer @ **Matrix Comsec Pvt. Ltd.**  
+📍 &nbsp;Vadodara, Gujarat, India 🇮🇳  
+🎓 &nbsp;B.Tech CS — Parul University `2021`  
+🏫 &nbsp;Ex-Lecturer @ Parul University `3+ years`  
+
+**What I do:**  
+🔧 &nbsp;Build & deploy custom **LMS plugins** on Moodle  
+⚙️ &nbsp;Automate device config (cameras, COSEC panels)  
+🚀 &nbsp;Upgrade live production servers — **zero downtime!**  
+📚 &nbsp;Teach, mentor & publish tech guides  
+
+**Currently:**  
+🌱 &nbsp;Mastering enterprise-level system configs & integrations  
+👀 &nbsp;Open to **Software Dev / Backend / Technical Roles**  
+🎯 &nbsp;Fun fact: Upgraded a **live Moodle** from v3.8 → v5.1 with **ZERO downtime!**  
+
+<br clear="right"/>
+
+
 
 ---
 
@@ -63,8 +76,7 @@
 ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Tools & Others**
 
@@ -88,7 +100,7 @@
   - 📅 Exam Slot Booking System
   - 🧪 Lab Exam Slot Booking System
   - 📦 Bulk Quiz Export Tool
-- ⚙️ Built automation to default/Configure **camera devices, COSEC Web & panels** — slashing manual setup time
+- ⚙️ Built automation to configure **camera devices, COSEC Web & panels** — slashing manual setup time
 
 ---
 
